@@ -63,7 +63,7 @@ Random user generator project showing the use of Fetch API in Asynchronous JavaS
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://megagig-random-user-generator.netlify.app/)
 
 <!-- GETTING STARTED -->
 
