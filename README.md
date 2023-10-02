@@ -1,7 +1,3 @@
-# Random-user-generator
-
-Random user generator project showing the use of Fetch API in Asynchronous JavaScript
-
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -28,9 +24,9 @@ Random user generator project showing the use of Fetch API in Asynchronous JavaS
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To-do List App <a name="about-project"></a>
+# 📖Random user generator <a name="about-project"></a>
 
-In this project, you will be able to add item to list via form, Remove items from list by clicking the remove button. This project will help you understand the basics of DOM manipulation.
+Random user generator project showing the use of Fetch API in Asynchronous JavaScript
 
 ## 🛠 Built With <a name="built-with"> </a>
 
@@ -67,7 +63,7 @@ In this project, you will be able to add item to list via form, Remove items fro
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://megagig-todo-list.netlify.app/)
+- [Live Demo Link]()
 
 <!-- GETTING STARTED -->
 
@@ -85,7 +81,7 @@ A working connection and a coding editor like visual studio code
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/megagig/shopping-list.git
+- git clone git@github.com:Megagig/Random-user-generator.git
 
 Use git push at your desired location and use the command git clone and paste the URL
 
@@ -163,6 +159,6 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Megagig/Leaderboard/blob/setup/LICENSE) licensed.
+This project is [MIT](https://github.com/Megagig/Random-user-generator/blob/development/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
